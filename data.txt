@@ -1,3 +1,4 @@
 Name: Ironhacker David
 Age: 30
-Favorite Color: azul
+Favorite Color: azul oscuro
+altura: 180cm
